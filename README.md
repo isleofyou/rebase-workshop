@@ -10,7 +10,7 @@ CONTENTS OF THIS FILE
  * Configuration
  * Troubleshooting
 
- INTRODUCTION
+INTRODUCTION
 ------------
 This is just a base template for a README with `Lorem Ipsum`, used for the Rebase Workflow Workshop session.
 
